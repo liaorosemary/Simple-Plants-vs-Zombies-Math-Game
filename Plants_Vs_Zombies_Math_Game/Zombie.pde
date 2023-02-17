@@ -1,9 +1,9 @@
 class Zombie {
   PVector position;
   
-  int hitsRemaining = 1;
+  int hitsRemaining = 3;
   
-  float [] speed = {0.25, 0.5, 0.75};  // Zombies move at different speeds
+  float [] speed = {0.5, 1, 1.75};  // Zombies move at different speeds
   
   PImage michaelJackson = loadImage("MJZombie.gif");
   PImage skateBoard = loadImage("SkateboardZombie.png");
