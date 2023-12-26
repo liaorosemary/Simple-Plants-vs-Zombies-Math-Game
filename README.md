@@ -56,7 +56,9 @@ Also, keep in mind that different zombie move at different speeds. In order of s
 If you win, you will be given the chance to replay the game at a higher level (with more zombies, therefore increasing difficulty).
 
 ## What happens when I lose?
-[![ezgif com-video-to-gif-converted](https://github.com/liaorosemary/Simple-Plants-vs-Zombies-Math-Game/assets/32112989/9ddf7a43-2d80-4820-852a-9dab12445eb3)](https://www.youtube.com/watch?v=AYf4-JbvrvQ)
+
+[![ezgif com-video-to-gif-converter (1)](https://github.com/liaorosemary/Simple-Plants-vs-Zombies-Math-Game/assets/32112989/969f66e2-4d7c-43c4-83a4-8691e98f295b)](https://www.youtube.com/watch?v=AYf4-JbvrvQ)
+
 
 (Click on the gif for a demo of the losing gameplay with sound effects and music.)
 
